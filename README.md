@@ -30,6 +30,7 @@
 ## Figma
  
 ## 회원가입 & 로그인
+![동영상 대체 텍스트](https://youtu.be/bP9wA_Ac5Gw)
 
 ## 컨텐츠 조회
 
