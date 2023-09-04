@@ -40,10 +40,11 @@ https://github.com/ganggyunggyu/hongflix/assets/56907263/1b3b2ea5-f060-4549-a86a
 https://github.com/ganggyunggyu/hongflix/assets/56907263/0904f966-5f97-4a57-85ba-1d1cf77b871b
 ### 구독 결제
 https://github.com/ganggyunggyu/hongflix/assets/56907263/d9310b5b-0bbb-42fd-9601-852f3ddc7fbb
-### 비디오 업로드
-https://github.com/ganggyunggyu/hongflix/assets/56907263/5fe58e52-a9c2-4e5b-8050-11bb6404f608
 ### 관리자 페이지 접근
 https://github.com/ganggyunggyu/hongflix/assets/56907263/9fc916ee-832c-42d3-a46f-76a1de00f1cd
+### 비디오 업로드
+https://github.com/ganggyunggyu/hongflix/assets/56907263/5fe58e52-a9c2-4e5b-8050-11bb6404f608
+
 
 ## 유저 플로우
 ### 홈
